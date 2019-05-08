@@ -3,4 +3,4 @@ server:
 spring:
   application:
     name: service-ribbon
-foo: test
+config-client: test
